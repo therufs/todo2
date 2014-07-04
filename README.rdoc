@@ -1,0 +1,1 @@
+Example code for new user creation, login, and logout. 
